@@ -1,0 +1,18 @@
+2024-02-29 06:14:47,074 - INFO - File Closed
+2024-02-29 06:14:47,074 - WARNING - Jo-Anne Sinclair's salary140000.0is currently above the recommanded maximum of 120000.
+2024-02-29 06:14:47,074 - WARNING - Jo-Anne Sinclair's salary140000.0will become greater than the recommanded maximum of 120000.with the planned 0.2 increase.
+2024-02-29 06:14:47,074 - WARNING - Jackson Smith's salary130000.0is currently above the recommanded maximum of 120000.
+2024-02-29 06:14:47,074 - WARNING - Jackson Smith's salary130000.0will become greater than the recommanded maximum of 120000.with the planned 0.2 increase.
+2024-02-29 06:14:47,074 - WARNING - Susan Thomas's salary120000.0will become greater than the recommanded maximum of 120000.with the planned 0.2 increase.
+2024-02-29 06:14:47,074 - WARNING - Richa Kaur's salary110000.0will become greater than the recommanded maximum of 120000.with the planned 0.2 increase.
+2024-02-29 06:14:47,074 - WARNING - Josee Benjamin's salary140000.0is currently above the recommanded maximum of 120000.
+2024-02-29 06:14:47,074 - WARNING - Josee Benjamin's salary140000.0will become greater than the recommanded maximum of 120000.with the planned 0.2 increase.
+2024-02-29 06:14:47,074 - WARNING - Stien Pedersen's salary140000.0is currently above the recommanded maximum of 120000.
+2024-02-29 06:14:47,074 - WARNING - Stien Pedersen's salary140000.0will become greater than the recommanded maximum of 120000.with the planned 0.2 increase.
+2024-02-29 06:14:47,074 - WARNING - Cheryl Guru's salary140000.0is currently above the recommanded maximum of 120000.
+2024-02-29 06:14:47,074 - WARNING - Cheryl Guru's salary140000.0will become greater than the recommanded maximum of 120000.with the planned 0.2 increase.
+2024-02-29 06:14:47,074 - DEBUG - Debug level message.
+2024-02-29 06:14:47,074 - INFO - Info level message.
+2024-02-29 06:14:47,074 - WARNING - Warning level message.
+2024-02-29 06:14:47,074 - ERROR - Error level message.
+2024-02-29 06:14:47,074 - CRITICAL - Critical level message.
